@@ -33,3 +33,4 @@ gem "github-pages", "~> 206", group: :jekyll_plugins
 
 gem "jekyll-github-metadata"
 gem "jekyll-include-cache"
+gem "jekyll-remote-theme"
