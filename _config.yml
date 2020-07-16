@@ -30,10 +30,11 @@ twitter_username:
 github_username: juchan1220
 
 # Build settings
-remote-theme: minimal-mistakes-jekyll
+remote-theme: "mmistakes/minimal-mistakes@4.19.3"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-github-metadata
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +55,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+github: [metadata]

@@ -28,8 +28,8 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-# jekyll theme: minimal-mistakes
-gem "minimal-mistakes-jekyll"
-
 # Github Page
 gem "github-pages", "~> 206", group: :jekyll_plugins
+
+gem "jekyll-github-metadata"
+gem "jekyll-include-cache"
