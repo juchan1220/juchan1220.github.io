@@ -56,3 +56,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 github: [metadata]
+
+
+# Pagination Setting
+paginate: 10
+paginate_path: /page:num/
