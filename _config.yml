@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:juchan1220@gmail.com"
+      # url: "mailto:juchan1220@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -110,7 +110,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100024206418604"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/juchan1220"
@@ -126,10 +126,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/profile.php?id=100024206418604"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/juchan1220"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
